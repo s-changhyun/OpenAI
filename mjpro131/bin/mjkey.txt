@@ -1,0 +1,20 @@
+MuJoCo Pro Trial license activation key, number 51359, type 4.
+
+Issued to Changhyun Sung <sch@robotis.com>.
+
+Expires June 11, 2016.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_PLG1OSmNSD86a_R802S1Bsg110uSAN54GS0nS204
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+680da5f7c56a249094d3bd6bd5a04d0e3f34b5b12732c03388ccc110855d2167
+72aba90e3da904e9c022c60c66c6fc1a4511cedacff6011d4d9881272a8a59d2
+8e5cecdac9f7ec23a8a1a1fed3320cd5b0a1d8fa3977001d9823d409607ca908
+d179582eabf9ff21b414413cb7222f420fd1b349ec64ae7606f852851d8ae997
+d5b44b4401395bb7b29afe5a94b5ddce351a059cc82381e2e28e95f023e28a4f
+8077218ccbe4ee1ad08f789637e7e8812e29e1add061d9db9aa0ce5d808e54e7
+d884145773545a0b8d2a67d2ee2e19852df0db2e79bd500c5c548b9f8f05681a
+75d3cabecbcb3b322ad3a730dc99e33bcb72b5d1abd126f2e17d2478820c4a71

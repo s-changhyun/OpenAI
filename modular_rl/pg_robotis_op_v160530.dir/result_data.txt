@@ -1,0 +1,34 @@
+{'warnflag': 1, 'task': 'STOP: TOTAL NO. of ITERATIONS EXCEEDS LIMIT', 'nit': 26, 'funcalls': 32}
+lagrange multiplier: 1.45825500079 gnorm: 0.467827
+fval before -9.67814971766e-08
+a/e/r 0.0215938494655 0.0291678309068 0.740331001456
+fval after -0.021593946247
+success True
+*********** Iteration 500 ****************
+------------------  ----------------
+NumEpBatch              51
+EpRewMean             2033.29
+EpRewSEM                34.9396
+EpRewMax              2089.34
+EpLenMean              983.529
+EpLenMax              1000
+RewPerStep               2.06734
+vf_loss_before           7.17145
+vf_loss_after            6.64732
+vf_mse_before            4.60791
+vf_mse_after             4.08166
+vf_l2_before             2.56354
+vf_l2_after              2.56566
+vf_PredStdevBefore      97.2354
+vf_PredStdevAfter       97.0323
+vf_TargStdev           103.016
+vf_EV_before             0.971538
+vf_EV_after              0.971829
+pol_surr_before         -9.67815e-08
+pol_surr_after          -0.0215939
+pol_kl_before            0
+pol_kl_after             0.00957291
+pol_ent_before          14.7666
+pol_ent_after           14.758
+TimeElapsed         462674
+------------------  ----------------
